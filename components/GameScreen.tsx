@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { useGame } from '../hooks/useGameLogic';
 import { SQLogoSmall, AdBonusIcon } from './icons';
