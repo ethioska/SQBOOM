@@ -1,4 +1,3 @@
-
 import React from 'react';
 import type { Agency } from '../types';
 import { VerifiedWatermarkIcon } from './icons';
