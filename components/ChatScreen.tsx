@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useGame } from '../hooks/useGameLogic';
 import { VERIFIED_AGENCIES } from '../constants';
