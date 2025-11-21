@@ -1,4 +1,3 @@
-
 import React from 'react';
 import type { Screen } from '../types';
 import { GameIcon, WalletIcon, TransferCoinsIcon, ChatIcon, SettingsIcon } from './icons';
