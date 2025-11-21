@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useMemo } from 'react';
 import { useGame } from '../hooks/useGameLogic';
 import { User, Role, PlatformSettings, CouponSettings } from '../types';
